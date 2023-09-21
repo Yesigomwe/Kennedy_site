@@ -1,15 +1,15 @@
 body {
     font-family: Arial, sans-serif;
-    padding: 5px;
-    margin: 1px;
+    padding: 0;
+    margin: 0;
     background-color: tomato;
 }
 
 header {
     background-color: #007BFF;
     color: #fff;
-    margin: 5px;
-    padding: 5px;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -60,15 +60,18 @@ a:hover {
 strong {
     color: #007BFF;
 }
+
 nav {
     text-align: center;
     margin-top: 20px;
 }
+
 nav a {
     text-decoration: none;
     color: tomato;
     margin: 0 20px;
 }
+
 nav a:hover {
     text-decoration: underline;
 }
